@@ -3,8 +3,8 @@
 
 
 - 🔭 I am studying at Ankara Yıldırım Beyazıt University Management Information Systems Department. 
-- 🌱 I’m currently learning Java, Pyhton, HTML,CSS 
-- 💬 Ask me about Java, HTML5, CSS, Python 
+- 🌱 I’m currently learning Pyhton, Data Science
+- 💬 Ask me about Java, HTML5, CSS, Python, Data Science
 
 - ⚡ ^^About Me^^
 
