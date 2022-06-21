@@ -4,7 +4,7 @@
 
 - 🔭 I am studying at Ankara Yıldırım Beyazıt University Management Information Systems Department. 
 - 🌱 I’m currently learning Pyhton, Angular
-- 💬 Ask me about Java, HTML5, CSS, Python, Angular
+- 💬 Ask me about Java, HTML, CSS, Python, Angular
 
 - ⚡ ^^About Me^^
 
